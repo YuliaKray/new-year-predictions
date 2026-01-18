@@ -1,0 +1,54 @@
+@font-face {
+	font-family: "Code Next";
+	font-weight: 300;
+	font-style: normal;
+	src:
+		url('../fonts/Code Next/Code-Next_Book.woff2') format('woff2'),
+		url('../fonts/Code Next/Code-Next_Book.woff') format('woff');
+}
+
+@font-face {
+	font-family: "Code Next";
+	font-weight: 300;
+	font-style: italic;
+	src:
+		url('../fonts/Code Next/Code-Next_Book-Italic.woff2') format('woff2'),
+		url('../fonts/Code Next/Code-Next_Book-Italic.woff') format('woff');
+}
+
+@font-face {
+	font-family: "Code Next";
+	font-weight: 400;
+	font-style: normal;
+	src:
+		url('../fonts/Code Next/Code-Next_Regular.woff2') format('woff2'),
+		url('../fonts/Code Next/Code-Next_Regular.woff') format('woff');
+}
+
+@font-face {
+	font-family: "Code Next";
+	font-weight: 400;
+	font-style: italic;
+	src:
+			url('../fonts/Code Next/Code-Next_Regular-Italic.woff2') format('woff2'),
+			url('../fonts/Code Next/Code-Next_Regular-Italic.woff') format('woff');
+}
+
+@font-face {
+	font-family: "Code Next";
+	font-weight: 600;
+	font-style: normal;
+	src:
+			url('../fonts/Code Next/Code-Next_SemiBold.woff2') format('woff2'),
+			url('../fonts/Code Next/Code-Next_SemiBold.woff') format('woff');
+}
+
+@font-face {
+	font-family: "Code Next";
+	font-weight: 700;
+	font-style: normal;
+	src:
+			url('../fonts/Code Next/Code-Next_Bold.woff2') format('woff2'),
+			url('../fonts/Code Next/Code-Next_Bold.woff') format('woff');
+}
+
